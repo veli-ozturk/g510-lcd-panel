@@ -1,0 +1,10 @@
+﻿*.exe
+*.spec
+build/
+dist/
+__pycache__/
+ayarlar.json
+g510_panel.log*
+onizleme_*.png
+G-tuslari.html
+G-tuslari-*.png
