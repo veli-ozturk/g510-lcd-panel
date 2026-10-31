@@ -1,5 +1,7 @@
 # G510 LCD Panel
 
+**Türkçe** | [English](README.en.md)
+
 **Logitech G510 / G510s** klavyenin 160×43 tek renkli LCD ekranını ve RGB arka ışığını canlandıran Windows
 uygulaması. Sistem durumu, çalan medya, hava ve piyasa, haberler, oyun FPS'i, Windows bildirimleri ve boştayken
 ekran koruyucu animasyonlar: hepsi tek bir `.exe` içinde.
@@ -168,4 +170,6 @@ Hava: [Open-Meteo](https://open-meteo.com) · Konum adı: [OpenStreetMap Nominat
 Kur: [Truncgil Finans](https://finans.truncgil.com) · Haberler: BBC Türkçe, Techolay, Webtekno RSS ·
 Oyun logoları: [Simple Icons](https://simpleicons.org) (CC0)
 
-Logitech, G510 ve diğer marka adları sahiplerine aittir; bu proje Logitech ile bağlantılı değildir.
+## Lisans
+
+[MIT](LICENSE). Logitech, G510 ve diğer marka adları sahiplerine aittir; bu proje Logitech ile bağlantılı değildir.
